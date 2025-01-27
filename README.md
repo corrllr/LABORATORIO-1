@@ -41,5 +41,8 @@
 10. **Verificar cambios**  
    Finalmente, verificamos que todo esté en orden y funcionando correctamente después de haber subido los cambios al repositorio remoto.
 
+## PARTE II y III
+
+disponible en: https://github.com/JAPV-X2612/my_first_repository/tree/main
     
 
